@@ -169,14 +169,10 @@ class _LiquidGlassButtonState extends State<LiquidGlassButton>
       onTapDown: (TapDownDetails details) => _handlePressDown(),
       onTapUp: (TapUpDetails details) => _handlePressUp(),
       onTapCancel: () => _handlePressUp(),
+      onTap: widget.onPressed != null ? _handleTap : null,
       onLongPress: widget.onLongPress,
       child: widget.child,
     );
-
-    // Add tap handling through a separate gesture detector
-    if (widget.onPressed != null) {
-      result = GestureDetector(onTap: _handleTap, child: result);
-    }
 
     if (widget.enableFrostedGlass) {
       result = LiquidGlassEffects.createFrostedGlass(

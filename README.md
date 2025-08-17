@@ -382,7 +382,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions, please:
 
 1. Check the [documentation](https://pub.dev/packages/flutter_ios_liquidglass)
-2. Search existing [issues](https://github.com/yourusername/flutter_ios_liquidglass/issues)
+2. Search existing [issues](https://github.com/draz26648/flutter_ios_liquid_glass_effect/issues)
 3. Create a new issue with detailed information
 
 ---

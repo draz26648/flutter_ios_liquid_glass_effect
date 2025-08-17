@@ -1,9 +1,9 @@
 name: flutter_ios_liquidglass
 description: "A Flutter package that implements the iOS Liquid Glass effect, providing beautiful glassmorphism UI components with customizable blur, transparency, and backdrop effects."
 version: 1.0.0
-homepage: https://github.com/yourusername/flutter_ios_liquidglass
-repository: https://github.com/yourusername/flutter_ios_liquidglass
-issue_tracker: https://github.com/yourusername/flutter_ios_liquidglass/issues
+homepage: https://github.com/draz26648/flutter_ios_liquid_glass_effect
+repository: https://github.com/draz26648/flutter_ios_liquid_glass_effect
+issue_tracker: https://github.com/draz26648/flutter_ios_liquid_glass_effect/issues
 documentation: https://pub.dev/packages/flutter_ios_liquidglass
 
 environment:

@@ -2,7 +2,7 @@
 
 All notable changes to the Flutter iOS Liquid Glass package will be documented in this file.
 
-## [1.0.0] - 2024-01-XX
+## [1.0.0] - 2024-01-01
 
 ### Added
 
@@ -39,3 +39,7 @@ All notable changes to the Flutter iOS Liquid Glass package will be documented i
 - Optimized for performance with minimal impact
 - Comprehensive error handling and validation
 - Extensible architecture for future enhancements
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request to [https://github.com/draz26648/flutter_ios_liquid_glass_effect](https://github.com/draz26648/flutter_ios_liquid_glass_effect).
